@@ -1,4 +1,4 @@
-div { width: 400px; height: 300px; }
+div { width: 400px; height: 200px; border: 1px solid #999; float: left;}
 .div1 {background: red;}
 .div1 {background: red;}
 .div1 {background: red;}
